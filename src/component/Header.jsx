@@ -48,7 +48,7 @@ const Header = () => {
             <div className="flex items-center space-x-8">
               <div className="shrink-0">
                 <a href="#" title="" className="">
-                  <h1 className="text-white font-bold text-2xl">Ecom</h1>
+                  <h1 className="dark:text-white text-black font-bold text-2xl">Ecom</h1>
                 </a>
               </div>
               <ul className="hidden lg:flex items-center justify-start gap-6 md:gap-8 py-3 sm:justify-center">
